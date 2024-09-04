@@ -1,0 +1,1 @@
+Oi, meu nome é Pedro Ruan, fiz esse projeto ai de html para a faculdade, é um html com um sistema de index(home page), nele você consegue acessar diferentes receitas clicando e acessando os links, é isso :v
